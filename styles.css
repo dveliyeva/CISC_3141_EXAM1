@@ -1,0 +1,39 @@
+#scheduling {
+    text-decoration: underline;
+  }
+  
+  .heading{
+    justify-content: center;
+  }
+  
+  .listed{
+    font-style: italic;
+  }
+  
+  .foot p{
+    color: blue;
+    font-style: normal;
+    text-align: center;
+  }
+  
+  
+  body{
+    font-family: helvetica;
+  }
+  
+  h1, h2{
+    text-align: center;
+  }
+  
+ .webimg{
+    width: 80%;
+  }
+  
+  /*
+  table styling
+  */
+  
+  thead{
+    font-weight: bold;
+  }
+  
